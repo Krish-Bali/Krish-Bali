@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/main/Assets/Name.svg" alt="Lohit Kolluri" />
+  <img src="https://raw.githubusercontent.com/Krish-Bali/Krish-Bali/main/Assets/Name.svg" alt="Krish-Bali" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
